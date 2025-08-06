@@ -25,7 +25,7 @@ Se implementa un modelo de regresión lineal (OLS) con forma semi-logarítmica y
 
 ```
 
-## Datos
+## Datos: se pueden descargar con el siguiente link: https://drive.google.com/file/d/1-dYEDcBWE8vJwiNrA-C4DQKFxYmgPHYB/view?usp=sharing
 
 * Más de 150.000 registros de propiedades en Colombia
 * Variables: precio, superficie, cuartos, baños, ciudad, tipo de propiedad
