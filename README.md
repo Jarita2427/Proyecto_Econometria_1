@@ -1,7 +1,7 @@
 # Proyecto_Econometria_1
 ---
 
-# Análisis del precio de la vivienda en Colombia 🇨🇴
+# Análisis del precio de la vivienda en Colombia
 
 Este repositorio contiene un proyecto de econometría aplicada que estudia los determinantes del precio de la vivienda en Colombia, con foco en diferencias por tipo de propiedad y ubicación geográfica.
 
