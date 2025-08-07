@@ -34,14 +34,6 @@ Por limitaciones de tamaño, los datos completos no se incluyen en este reposito
 
 1. Descarga el archivo original desde https://drive.google.com/file/d/1-dYEDcBWE8vJwiNrA-C4DQKFxYmgPHYB/view?usp=sharing.
 
-
-## 🖥️ Cómo reproducir
-
-1. Clona este repositorio
-2. Instala los paquetes:
-
-```bash
-pip install -r requirements.txt
 ```
 
 3. Abre el notebook: Cambios en el Precio de la Vivienda en Colombia 
